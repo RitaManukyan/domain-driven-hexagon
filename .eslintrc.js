@@ -2,7 +2,7 @@
  * eslint config
  * https://github.com/Sairyss/backend-best-practices#static-code-analysis
  */
-
+777
 module.exports = {
   parser: '@typescript-eslint/parser',
   parserOptions: {
